@@ -11,4 +11,8 @@ function toUppercase(name: string){
 
 toUppercase("hello sunrise")
 
+function userDetails(name: string, email: string, isPaid: boolean){}
+
+userDetails("Pankaj","pankaj@gmail.com",true)
+
 export {}
